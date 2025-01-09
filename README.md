@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm haeyun1
 
----
+-----
 
 ### 📈 GitHub Stats
 
@@ -8,4 +8,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeyun1&layout=compact&theme=radical)
 
----
+-----
