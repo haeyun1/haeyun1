@@ -15,3 +15,7 @@
   height="300"
 />
 </a>
+
+-----
+
+<img src="https://github.com/haeyun1/haeyun1/blob/output/github-contribution-grid-snake.svg"/>
